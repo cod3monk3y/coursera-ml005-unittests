@@ -6,4 +6,4 @@
 
 %!test test_costfunction_nontrivial()
 
-%  !test test_gradient()
+%!test test_predict()

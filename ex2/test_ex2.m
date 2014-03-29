@@ -7,3 +7,5 @@
 %!test test_costfunction_nontrivial()
 
 %!test test_predict()
+
+%!test test_costFunctionReg()

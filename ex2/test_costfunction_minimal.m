@@ -1,4 +1,4 @@
-function test_costfunction ()
+function test_costfunction_minimal ()
   % an extremely simple cost function calculation with
   % one negative and one positive class
   X = [1 1; 2 2];   % minimal 2D feature matrix

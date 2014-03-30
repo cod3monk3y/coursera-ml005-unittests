@@ -8,4 +8,7 @@
 
 %!test test_predict()
 
+%!test test_costfunction_reg_minimal()
+
 %!test test_costFunctionReg()
+

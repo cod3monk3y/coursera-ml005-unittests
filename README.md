@@ -17,6 +17,11 @@ To run the tests, follow these steps:
 
     >> test test_ex2
     PASSED 6 out of 6 tests
+    
+Conventions and Guidelines:
+    
+* vectors are represented as __column vectors__ unless they are required to be row vectors by the submit script. 
+* all unit tests that I submit here are passing, and the code I tested against these tests has been accepted by the submit script.
 
 
 Adding your own tests
@@ -27,4 +32,6 @@ To add your own tests, create a new function like `test_foo.m` and add a line to
 
     %!test test_foo()
     
-Thanks! And I hope this helps everyone out!
+Please __do not commit any nonworking unit tests__!!! 
+    
+Thanks, and I hope this helps everyone out!

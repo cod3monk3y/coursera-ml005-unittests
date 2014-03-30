@@ -24,6 +24,7 @@ Conventions and Guidelines
     
 * vectors are represented as __column vectors__ unless they are required to be row vectors by the submit script. 
 * all unit tests that I submit here are passing, and the code I tested against these tests has been accepted by the submit script.
+* names of unit tests will be obfuscated/redacted to hide the nature of the test, so that they don't provide overly detailed hints towards implementation. See discussion on Honor Code here: https://class.coursera.org/ml-005/forum/thread?thread_id=1294
 
 
 Adding your own tests
@@ -35,5 +36,7 @@ To add your own tests, create a new function like `test_foo.m` and add a line to
     %!test test_foo()
     
 Please __do not commit any nonworking unit tests__!!! 
+
+Please __obfuscate or redact your test names__. See guidelines above re: Honor Code.
     
 Thanks, and I hope this helps everyone out!

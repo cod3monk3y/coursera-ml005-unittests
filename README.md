@@ -18,7 +18,8 @@ To run the tests, follow these steps:
     >> test test_ex2
     PASSED 6 out of 6 tests
     
-Conventions and Guidelines:
+Conventions and Guidelines
+==========================
     
 * vectors are represented as __column vectors__ unless they are required to be row vectors by the submit script. 
 * all unit tests that I submit here are passing, and the code I tested against these tests has been accepted by the submit script.

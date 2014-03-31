@@ -6,6 +6,8 @@
 
 %!test test_costfunction_nontrivial()
 
+%!test test_costfunction_forums()
+
 %!test test_predict()
 
 %!test test_costfunction_reg_minimal()

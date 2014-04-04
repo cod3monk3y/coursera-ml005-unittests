@@ -1,4 +1,6 @@
 function test_oneVsAll_converged()
+% these tests makes no difference between fmincg and fminunc
+
     epsilon = 1e-3;
 
     X = [0 1 2 2 1 0 3 4 5 5 4 3]';

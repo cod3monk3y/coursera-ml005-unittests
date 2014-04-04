@@ -10,3 +10,5 @@
 %!test test_oneVsAll()
 
 %!test test_predictOneVsAll()
+
+%!test test_predict()

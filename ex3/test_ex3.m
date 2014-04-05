@@ -21,3 +21,8 @@
 %!test test_nn()
 
 %!test test_nn_cm_2()
+
+% Boolean operations
+%!test test_nn_OR()
+%!test test_nn_AND()
+%!test test_nn_XOR()
